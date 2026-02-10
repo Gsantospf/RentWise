@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="RentWise.API/RentWise.API.csproj" />
+  <Project Path="RentWise.Application/RentWise.Application.csproj" />
+  <Project Path="RentWise.Core/RentWise.Core.csproj" />
+  <Project Path="RentWise.Infrastructure/RentWise.Infrastructure.csproj" />
+</Solution>
